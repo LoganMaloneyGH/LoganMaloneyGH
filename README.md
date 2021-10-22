@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoganMaloneyGH
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning how to code 
-- 💞️ I’m looking to collaborate on anything in the tech field 
+- 🌱 I’m currently learning how to code in C#
+- 💞️ I’m looking to collaborate with anyone about anything 
 - 📫 How to reach me "Loganmaloney2020@gmail.com"
